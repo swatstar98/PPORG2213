@@ -230,7 +230,7 @@ void game_callback_unknown(Game* game)
 
 void game_callback_quit(Game* game) 
 {
-
+/*Esta es para vos*/
 }
 
 void game_callback_next(Game* game) 
